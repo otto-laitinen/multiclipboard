@@ -4,7 +4,7 @@ Use terminal to navigate to the folder that contains the multiclipboard.py file.
 
 In the terminal:
 
-python multiclipboard.py save
+'python multiclipboard.py save'
 Save your clipboards' content to a JSON file.
 Enter a key (this is used as an identifier for when you want to fetch your data).
 
