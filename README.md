@@ -1,4 +1,4 @@
-Cmd / Terminal clipboard
+Cmd / Terminal clipboard created with Python
 
 Use terminal to navigate to the folder that contains the multiclipboard.py file.
 
